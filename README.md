@@ -1,0 +1,2 @@
+# goodminer
+XMR Miner
